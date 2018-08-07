@@ -1,0 +1,4 @@
+#Tue Aug 07 13:54:32 ICT 2018
+base.0=C\:\\Users\\deni\\LatihanMediaPlayer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
